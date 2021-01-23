@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit us
+          Visit hackatons for dummies
         </a>
       </header>
     </div>
