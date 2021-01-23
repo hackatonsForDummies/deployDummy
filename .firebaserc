@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "deploy-368cf"
+  },
+  "targets": {
+    "deploy-368cf": {
+      "hosting": {
+        "deploy": [
+          "deploy-dummies"
+        ]
+      }
+    }
   }
 }
